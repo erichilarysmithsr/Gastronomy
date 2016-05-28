@@ -1,5 +1,6 @@
 # Gastronomy
 App showcasing a few well known techniques used for cooking.
+A project app submission for the android study jam.
 
 Built with the latest android tools and uses grade build.
 
