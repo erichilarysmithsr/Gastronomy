@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/hello/Desktop/Gastronomy/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/Users/hello/Desktop/Gastronomy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.2.1_67b245c09822bfda18400b31bb703491392a5888/classes.dex" />
+    </item>
+    <item
+        jar="/Users/hello/Desktop/Gastronomy/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Users/hello/Desktop/Gastronomy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.2.1_539a075cc04d13597c0bf6485cd4d44fd1d35b14/classes.dex" />
+    </item>
+    <item
+        jar="/Users/hello/Desktop/Gastronomy/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c8b38b5aa8cfafff5428f404848791d2ab54f25b">
+        <dex dex="/Users/hello/Desktop/Gastronomy/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_98c069f3ea66e729151083ce48fe2334013d0a8d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/hello/Desktop/Gastronomy/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Users/hello/Desktop/Gastronomy/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.2.1_1b204a103dfcbc58ad3ad2ee1660f621da40e8bf/classes.dex" />
+    </item>
+    <item
+        jar="/Users/hello/Desktop/Gastronomy/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/Users/hello/Desktop/Gastronomy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.2.1_1bb8b8984fe3b5750073529b9a50f0d1a3f8f494/classes.dex" />
+    </item>
+    <item
+        jar="/Users/hello/Development/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/Users/hello/Desktop/Gastronomy/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.2.1_79634557474edb97e0737d349088b5db19185ad7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/hello/Desktop/Gastronomy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/Users/hello/Desktop/Gastronomy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.2.1_d3a1a1a933280c58a814c55dca90cb6ee998b876/classes.dex" />
+    </item>
+    <item
+        jar="/Users/hello/Desktop/Gastronomy/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="25707d81ca303154f95d089e51de83065364c379">
+        <dex dex="/Users/hello/Desktop/Gastronomy/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f512ba0f7032ae91d8af5b79995d8304aba9299c/classes.dex" />
+    </item>
+
+</items>

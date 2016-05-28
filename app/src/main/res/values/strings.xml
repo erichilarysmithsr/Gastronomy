@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Speak Gourmet</string>
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">GASTRONOME</string>
+    <string name="slide_1_desc">You don\'t need a silver fork to eat good food!</string>
+
+    <string name="slide_2_title">OMM NOM NOM</string>
+    <string name="slide_2_desc">Eat delicious scrumptious tasty flavorful food!</string>
+
+    <string name="slide_3_title">FOOD EXPLORER</string>
+    <string name="slide_3_desc">Patience is the secret to good food!</string>
+
+    <string name="slide_4_title">BON APPETIT</string>
+    <string name="slide_4_desc">Eat good and feel good!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+</resources>
